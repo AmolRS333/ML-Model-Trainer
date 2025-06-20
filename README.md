@@ -1,7 +1,7 @@
 # 🧠 ML Regression Project with EDA, Pipelines, and Residual Analysis
 
 This project is a complete machine learning pipeline built for a **regression task**. It includes **Exploratory Data Analysis (EDA)**, **data preprocessing** using `sklearn` Pipelines, **model training**, and **evaluation** using industry-standard regression metrics like **MAE**, **RMSE**, and **R² Score**, along with **residual visualization**.
-
+🚀 Live : https://ml-model-trainer.streamlit.app/
 ---
 
 ## 📂 Project Structure
