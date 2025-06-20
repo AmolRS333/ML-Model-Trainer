@@ -6,15 +6,8 @@ This project is a complete machine learning pipeline built for a **regression ta
 
 ## 📂 Project Structure
 
-``` ├── data/ # Dataset files
-├── notebooks/ # Jupyter notebooks for experiments
-├── src/ # Core Python code (preprocessing, training, etc.)
-│ ├── eda.py
-│ ├── model.py
-│ └── pipeline.py
-├── outputs/ # Plots and saved models
-├── app.py # Streamlit app (if using)
-└── README.md # You're here!
+``` ├── venv/ 
+├── app.py
  ```
 
 ---
